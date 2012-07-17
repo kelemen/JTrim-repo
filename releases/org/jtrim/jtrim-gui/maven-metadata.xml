@@ -3,12 +3,13 @@
   <groupId>org.jtrim</groupId>
   <artifactId>jtrim-gui</artifactId>
   <versioning>
-    <release>0.7.1</release>
+    <release>1.2-alpha</release>
     <versions>
+      <version>1.2-alpha</version>
       <version>0.7.1</version>
       <version>0.7</version>
       <version>0.6</version>
     </versions>
-    <lastUpdated>20120504150000</lastUpdated>
+    <lastUpdated>20120717220717</lastUpdated>
   </versioning>
 </metadata>
